@@ -16,3 +16,6 @@ Teremos dois commits que serão "mergeados" diretamente para a master. Depois, t
 
 -- vou adicionar esta linha no merge entre (develop e hml)
 Depois irei tentar fazer o merge request entre hml e master
+
+- develop
+- hml
