@@ -12,5 +12,4 @@ Faça:
 Vou realizar mais uma alteração no arquivo, para gerar mais um commit.
 Teremos dois commits que serão "mergeados" diretamente para a master. Depois, tentaremos fazer o rollback
 
--- vou adicionar esta linha no merge entre (develop e hml)
-Depois irei tentar fazer o merge request entre hml e master
+- irei alterar esta linha no merge entre (main ficará com commit na frente)
