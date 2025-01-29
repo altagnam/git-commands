@@ -9,6 +9,8 @@ Faça:
 - ``git push `` para enviar suas alterações locais ao branch;
 
 ## rollback
+Ainda sem sucesso para dar roolback
+
 Vou realizar mais uma alteração no arquivo, para gerar mais um commit.
 Teremos dois commits que serão "mergeados" diretamente para a master. Depois, tentaremos fazer o rollback
 
